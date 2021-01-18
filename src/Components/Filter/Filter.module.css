@@ -1,0 +1,15 @@
+.label {
+  display: block;
+  background-color: skyblue;
+  padding: 20px;
+  border: 2px solid black
+}
+
+.input {
+  margin-top: 20px;
+  display: block;
+  outline: none;
+  border: 2px solid blue;
+  border-radius: 5px;
+}
+
